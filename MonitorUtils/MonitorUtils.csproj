@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MonitorUtilException.cs" />
+    <Compile Include="MonitorUtilMode.cs" />
     <Compile Include="MonitorUtils.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
